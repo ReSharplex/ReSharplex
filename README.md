@@ -2,7 +2,7 @@
 
 💻 With over a year of experience in C# and a solid understanding of Golang, I'm particularly passionate about crafting solutions with C#.
 
-🌱 Fluent in German and proficient in English, I'm more comfortable communicating in German. Open for collaborations and excited to work on interesting projects.
+🌱 Fluent in German and good in English, I'm more comfortable communicating in German. Open for collaborations and excited to work on interesting projects.
 
 🚀 Passionate about contributing to challenging open-source projects, especially those involving C#. Let's build something awesome together!
 
