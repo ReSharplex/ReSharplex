@@ -7,3 +7,5 @@
 🚀 Passionate about contributing to challenging open-source projects, especially those involving C#. Let's build something awesome together!
 
 📫 Feel free to reach out for collaboration opportunities or just to connect!
+
+https://github-profile-trophy.vercel.app/?username=ReSharplex&theme=dracula
