@@ -1,11 +1,11 @@
-👋 Hey there! Welcome to my GitHub!
+👋 Welcome to my GitHub!
 
-💻 With over a year of experience in C# and a solid understanding of Golang, I'm particularly passionate about crafting solutions with C#.
+💻 I have over a year of experience in C# and some knowledge of Golang. I love working with C#.
 
-🌱 Fluent in German and good in English, I'm more comfortable communicating in German. Open for collaborations and excited to work on interesting projects.
+🌱 I’m fluent in German and good at English, but I prefer German for communication. Open to collaborations and excited about new projects.
 
-🚀 Passionate about contributing to challenging open-source projects, especially those involving C#. Let's build something awesome together!
+🚀 Passionate about contributing to open-source projects, especially with C#. Let’s create something great together!
 
-📫 Feel free to reach out for collaboration opportunities or just to connect!
+📫 Reach out for collaboration or just to connect!
 
 ![ReSharplex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReSharplex\&show_icons=true\&theme=radical)
