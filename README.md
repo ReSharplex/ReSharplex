@@ -8,4 +8,6 @@
 
 📫 Feel free to reach out for collaboration opportunities or just to connect!
 
-https://github-profile-trophy.vercel.app/?username=ReSharplex&theme=dracula
+<p align="center">
+  <img width="660" src="https://github-profile-trophy.vercel.app/?username=ReSharplex&theme=dracula">
+</p>
