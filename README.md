@@ -12,6 +12,4 @@
   <img width="660" src="https://github-profile-trophy.vercel.app/?username=ReSharplex&theme=dracula">
 </p>
 
-```md
-![ReSharplex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReSharplex&show_icons=true&theme=radical)
-```
+![ReSharplex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReSharplex\&show_icons=true\&theme=radical)
