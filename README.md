@@ -9,7 +9,5 @@
 📫 Feel free to reach out for collaboration opportunities or just to connect!
 
 <p align="center">
-  <img width="660" src="https://github-profile-trophy.vercel.app/?username=ReSharplex&theme=dracula">
+  ![ReSharplex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReSharplex\&show_icons=true\&theme=radical)
 </p>
-
-![ReSharplex's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReSharplex\&show_icons=true\&theme=radical)
