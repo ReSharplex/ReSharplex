@@ -1,4 +1,4 @@
-👋 Welcome to my GitHub!
+👋 <h1>Welcome to my GitHub!</h1>
 
 💻 I have over a year of experience in C# and some knowledge of Golang. I love working with C#.
 
